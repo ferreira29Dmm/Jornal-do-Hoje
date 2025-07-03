@@ -25,9 +25,9 @@
     color: #545454d7;
     font-size: 1.8rem;
     text-transform: capitalize;
-    letter-spacing: 2px;
+    letter-spacing: 1px;
     font-weight: 600;
-    font-family: var(--font-titulo);
+    
 }
 
 .divisor_numero {
