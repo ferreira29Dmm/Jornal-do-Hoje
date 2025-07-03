@@ -29,7 +29,7 @@
 .emAlta__texto {
     font-size: 1rem;
     color: var(--cinza-secundario);
-    line-height: 1.25rem;
+    line-height: 1.125rem;
     display: none;
 }
 
