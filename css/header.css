@@ -18,7 +18,7 @@
 .cabecalho__texto {
     color: var(--vermelho);
     font-weight: 800;
-    font-size: 1.125rem;
+    font-size: 1rem;
     margin-bottom: 4px;
 }
 
@@ -31,10 +31,10 @@
 }
 
 .cabecalho__subtitulo {
-    font-size: 1.125rem;
+    font-size: 1rem;
     font-weight: 800;
     line-height: auto;
-    letter-spacing: .1rem;
+    letter-spacing: .17rem;
     font-family: var(--font-texto);
     color: var(--cinza-secundario);
 }
