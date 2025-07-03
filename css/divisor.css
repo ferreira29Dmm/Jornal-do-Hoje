@@ -23,9 +23,11 @@
     background-color: #ffffff;
     padding: .5rem 1rem;
     color: #545454;
-    font-size: 1.25rem;
-    text-transform: uppercase;
+    font-size: 1.5rem;
+    text-transform: capitalize;
+    letter-spacing: 2px;
     font-weight: 600;
+    font-family: var(--font-titulo);
 }
 
 .divisor_numero {
