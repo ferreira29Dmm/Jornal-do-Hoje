@@ -52,7 +52,7 @@
 
 .inscrever__texto {
     font-size: 1.125rem;
-    color: #070707;
+    color: #535353;
     opacity: 80%;
 }
 
@@ -60,6 +60,7 @@
     font-size: 1.125rem;
     color: #EF7B7B;
     font-family: var(font-principal);
+    opacity: 80%;
 }
 
 .cabecalho__linha {

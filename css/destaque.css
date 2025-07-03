@@ -23,7 +23,7 @@
 }
 
 .destaque__texto {
-    font-size: 1.125rem;
-    line-height: 1.125rem;
+    font-size: 1.25rem;
+    line-height: 1.1rem;
     color: var(--cinza-secundario);
 }

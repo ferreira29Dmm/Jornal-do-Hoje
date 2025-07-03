@@ -12,7 +12,7 @@
 }
 
 .manchete__titulo {
-    font-size: 1.5rem;
+    font-size: 1.75rem;
     line-height: 1.5rem;
     color: var(--cinza-secundario);
     font-weight: 600;
@@ -21,7 +21,7 @@
 
 .manchete__texto {
     font-size: 1.25rem;
-    line-height: 1.375rem;
+    line-height: 1.1rem;
     color: var(--cinza-secundario);
 }
 
