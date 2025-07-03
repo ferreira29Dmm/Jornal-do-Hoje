@@ -10,14 +10,14 @@
 .destaque {
     display: flex;
     flex-direction: column;
-    gap: .6rem;
+    gap: .8rem;
     border-right: 1px solid #6363633d;
     padding: 0 1.5rem 0 0;
 }
 
 .destaque__titulo {
     font-size: 1.5rem;
-    line-height: 1.7rem;
+    line-height: 1.5rem;
     font-weight: 600;
     color: var(--cinza-secundario);
 }
