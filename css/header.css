@@ -47,18 +47,16 @@
     padding: .5rem 1rem;
     border-bottom:1px solid var(--cinza-escuro);
     border-top: 1px solid var(--cinza-escuro);
-    font-size: 1rem;
-    font-weight: 500;
+    font-size: 1.1rem;
+    font-weight: 400;
 }
 
 .inscrever__texto {
-    font-size: 1.125rem;
     color: #535353;
     opacity: 80%;
 }
 
 .inscrever__link {
-    font-size: 1.125rem;
     color: #EF7B7B;
     font-family: var(font-principal);
     opacity: 80%;
