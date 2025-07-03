@@ -1,0 +1,31 @@
+:root {
+    --vermelho: #EF7B7B;
+    --cinza-escuro: #636363;
+    --cinza-secundario: #535353;
+
+    --font-titulo: "Pirata One", system-ui;
+    --font-texto: "EB Garamond", serif;
+    --font-divisor: "UnifrakturCook", cursive;
+}
+
+body {
+    font-family: var(--font-texto);
+    width: 100%;
+}
+
+@media screen and (min-width: 1024px) {
+    body {
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        background-image: url(../../assets/jornal.jpg);
+        background-repeat: repeat-y;
+        background-size: contain;
+    }
+
+    main {
+        width: 80%;
+        background-color: white;
+    }
+}
+

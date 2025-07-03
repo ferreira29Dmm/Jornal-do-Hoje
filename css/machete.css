@@ -1,0 +1,36 @@
+.manchete {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding: 1.5rem 1rem 3.75rem 1rem;
+    gap: 1rem;
+    
+}
+.manchete__imagem {
+    width: 100%;
+}
+
+.manchete__titulo {
+    font-size: 1.5rem;
+    line-height: 1.5rem;
+    color: var(--cinza-secundario);
+    font-weight: 600;
+    
+}
+
+.manchete__texto {
+    font-size: 1.125rem;
+    line-height: 1.375rem;
+    color: var(--cinza-secundario);
+}
+
+@media screen and (min-width: 1024px) {
+    .manchete__imagem {
+        width: 40%;
+    }
+
+    .manchete__texto {
+        width: 40%;
+    }
+}

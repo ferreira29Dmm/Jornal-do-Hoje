@@ -1,0 +1,52 @@
+.emAlta {
+    display: flex;
+    flex-direction: column;
+    padding: 1.5rem 1rem 3.75rem 1rem;
+    gap: 1.875rem;
+}
+
+.emAlta__item {
+    display: flex;
+    align-items: center;
+    column-gap: 1.25rem;
+    
+}
+
+.emAlta__conteudo {
+    display: flex;
+    flex-direction: column;
+    row-gap: .2rem;
+}
+
+.emAlta__titulo {
+    font-size: 1.25rem;
+    font-weight: 600;
+    color: var(--cinza-secundario);
+    line-height: 1.25rem;
+    
+}
+
+.emAlta__texto {
+    font-size: 1rem;
+    color: var(--cinza-secundario);
+    line-height: 1.25rem;
+}
+
+@media screen and (min-width: 768px) {
+    .emAlta {
+        align-items: center;
+    }
+}
+
+@media screen and (min-width: 1024px) {
+    .emAlta {
+        align-items: center;
+    }
+
+    .container__desk {
+        display: flex;
+        gap: 3rem;
+        justify-content: center;
+    }
+}
+

@@ -1,0 +1,70 @@
+.cadastro {
+    display: flex;
+    flex-direction: column;
+    padding: 3.125rem 1rem 3.75rem 1rem ;
+    row-gap: 1.25rem;
+    background-color: #F4F1E5;
+}
+
+.cadastro__titulo {
+    font-size: 2rem;
+    color: var(--cinza-secundario);
+    font-weight: 700;
+}
+
+.cadastro__texto {
+    font-size: 1.25rem;
+    line-height: 1.25rem;
+    color: var(--cinza-secundario);
+}
+
+input {
+    padding: .7rem;
+    border: 1px solid var(--cinza-secundario);
+    margin-top: 1rem;
+}
+
+input::placeholder {
+    font-size: 1.25rem;
+    color: var(--cinza-secundario);
+    line-height: 1.25rem;
+    font-family: var(--font-texto);
+}
+
+button {
+    padding: .7rem;
+    border: none;
+    background-color: var(--cinza-secundario);
+    color: #FFFFFF;
+    font-size: 1.25rem;
+    line-height: 1.25rem;
+}
+
+@media screen and (min-width: 768px) {
+    .cadastro__titulo {
+        align-self: center;
+    }
+    br {
+        display: none;
+    }
+}
+
+
+@media screen and (min-width: 1024px) {
+    .cadastro {
+        text-align: center;
+    }
+    br {
+        display: none;
+    }
+
+    input {
+        align-self: center;
+        width: 50%;
+    }
+
+    button {
+        align-self: center;
+        width: 52%;
+    }
+}

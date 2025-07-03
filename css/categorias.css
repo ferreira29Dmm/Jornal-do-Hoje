@@ -1,0 +1,18 @@
+.categorias__item {
+    display: flex;
+    gap: 1.25rem;
+}
+
+
+.categorias__texto {
+    font-size: 0.875rem;
+    color: var(--cinza-escuro);
+    line-height: 1.5rem;
+}
+
+.categorias__titulo {
+    font-size: 1.25rem;
+    line-height: 1.25rem;
+    color: #000000;
+}
+
