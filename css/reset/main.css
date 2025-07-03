@@ -10,7 +10,7 @@
 
 body {
     font-family: var(--font-texto);
-    width: 100%;
+
 }
 
 @media screen and (min-width: 1024px) {
