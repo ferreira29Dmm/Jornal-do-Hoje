@@ -37,6 +37,7 @@
     letter-spacing: .17rem;
     font-family: var(--font-texto);
     color: var(--cinza-secundario);
+    opacity: .8;
 }
 
 .container_inscrever {

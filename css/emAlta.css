@@ -30,6 +30,7 @@
     font-size: 1rem;
     color: var(--cinza-secundario);
     line-height: 1.25rem;
+    display: none;
 }
 
 @media screen and (min-width: 768px) {
