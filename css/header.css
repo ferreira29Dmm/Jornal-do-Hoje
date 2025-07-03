@@ -53,13 +53,13 @@
 
 .inscrever__texto {
     color: #535353;
-    opacity: 80%;
+    opacity: 100%;
 }
 
 .inscrever__link {
     color: #EF7B7B;
     font-family: var(font-principal);
-    opacity: 80%;
+    opacity: 100%;
 }
 
 .cabecalho__linha {
