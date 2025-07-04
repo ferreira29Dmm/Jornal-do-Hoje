@@ -34,21 +34,20 @@
     font-size: 1rem;
     font-weight: 800;
     line-height: auto;
-    letter-spacing: .05rem;
+    letter-spacing: .06rem;
     font-family: var(--font-texto);
     color: var(--cinza-secundario);
     opacity: .8;
 }
 
 .container_inscrever {
-
     position: relative;
     display: flex;
     justify-content: space-between;
     padding: .4rem 1rem;
     border-bottom: 1px solid #000000;
     border-top: 1px solid #000000;
-    font-size: 1.1rem;
+    font-size: 1rem;
     font-weight: 500;
 }
 
