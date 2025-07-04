@@ -41,7 +41,7 @@
 }
 
 .container_inscrever {
-    background-color: #f1f1f1;
+    background-color: #f5f5f5;
     position: relative;
     display: flex;
     justify-content: space-between;
@@ -66,9 +66,9 @@
 .cabecalho__linha {
     position: absolute;
     left: 0;
-    bottom: -4px;
+    bottom: -3px;
     width: 100%;
     height: 1px;
     background-color: #070707;
-    opacity: 20%;
+    opacity: 25%;
 }
