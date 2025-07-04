@@ -26,7 +26,7 @@
     font-size: 2.25rem;
     font-family: var(--font-titulo);
     color: var(--cinza-secundario);
-    letter-spacing: .05rem;
+    letter-spacing: .09rem;
     text-shadow: 2px 2px 1px #c7c7c7;
 }
 
@@ -34,13 +34,14 @@
     font-size: 1rem;
     font-weight: 800;
     line-height: auto;
-    letter-spacing: .03rem;
+    letter-spacing: .05rem;
     font-family: var(--font-texto);
     color: var(--cinza-secundario);
     opacity: .8;
 }
 
 .container_inscrever {
+    background-color: #f5f2f2;
     position: relative;
     display: flex;
     justify-content: space-between;
