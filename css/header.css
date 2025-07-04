@@ -27,7 +27,7 @@
     font-family: var(--font-titulo);
     color: var(--cinza-secundario);
     letter-spacing: .09rem;
-    text-shadow: 2px 2px 1px #c7c7c7;
+    text-shadow: 1px 2px 1px #c7c7c7;
 }
 
 .cabecalho__subtitulo {
@@ -41,7 +41,7 @@
 }
 
 .container_inscrever {
-    background-color: #eeeeee;
+
     position: relative;
     display: flex;
     justify-content: space-between;
