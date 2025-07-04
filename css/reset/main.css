@@ -21,12 +21,12 @@ body::before {
     left: 0;
     width: 100%;
     height: 100%;
+    background-color: #ffffff;
     background: 
-    url('https://www.transparenttextures.com/patterns/cream-paper.png'); /* Adicionando um leve ruído escuro */
-    background-blend-mode: overlay; /* Mistura as texturas */
+    url('https://www.transparenttextures.com/patterns/groovepaper.png'); /* Adicionando um leve ruído escuro */
     pointer-events: none; /* Para garantir que a interação com os elementos abaixo não seja bloqueada */
     z-index: 9999;
-    opacity: 0.3; /* Ajuste a intensidade do efeito */
+    opacity: 0.8; /* Ajuste a intensidade do efeito */
 }
 
 #parchment {
