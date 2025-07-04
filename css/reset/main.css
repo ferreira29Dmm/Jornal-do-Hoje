@@ -23,7 +23,8 @@ body::before {
     height: 100%;
     background-color: #ffffff;
     background: 
-    url('https://www.transparenttextures.com/patterns/groovepaper.png'); /* Adicionando um leve ruído escuro */
+    url('https://www.transparenttextures.com/patterns/exclusive-paper.png'); /* Adicionando um leve ruído escuro */
+
     pointer-events: none; /* Para garantir que a interação com os elementos abaixo não seja bloqueada */
     z-index: 9999;
     opacity: 0.8; /* Ajuste a intensidade do efeito */
@@ -38,7 +39,7 @@ body::before {
     /* center page with absolute position */
     top: 0%; left: 50%; transform: translate(-50%, 0);
     margin: 0;
-    box-shadow: 2px 3px 20px rgb(0, 0, 0), 0 0 60px #eee4d9 inset;
+    box-shadow: 2px 3px 20px rgb(0, 0, 0), 0 0 60px #fffcfa inset;
     background: #ffffff;
     filter: url(#wavy2);
     z-index: -1;
