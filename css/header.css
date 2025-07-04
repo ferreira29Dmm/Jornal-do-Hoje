@@ -23,7 +23,7 @@
 }
 
 .cabecalho__titulo {
-    font-size: 2.50rem;
+    font-size: 2.25rem;
     font-family: var(--font-titulo);
     color: var(--cinza-secundario);
     letter-spacing: .05rem;
@@ -34,7 +34,7 @@
     font-size: 1rem;
     font-weight: 800;
     line-height: auto;
-    letter-spacing: .1rem;
+    letter-spacing: .03rem;
     font-family: var(--font-texto);
     color: var(--cinza-secundario);
     opacity: .8;
@@ -45,8 +45,8 @@
     display: flex;
     justify-content: space-between;
     padding: .4rem 1rem;
-    border-bottom:1px solid var(--cinza-escuro);
-    border-top: 1px solid var(--cinza-escuro);
+    border-bottom:1px solid var(--cinza-secundario);
+    border-top: 1px solid var(--cinza-secundario);
     font-size: 1.1rem;
     font-weight: 400;
 }
