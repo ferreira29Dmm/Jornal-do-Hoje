@@ -3,6 +3,8 @@
     overflow-x: scroll;
     gap: 1rem;
     padding: 1.5rem 0rem 4rem 1rem;
+
+    display: none;
 }
 
 .diversos__item {

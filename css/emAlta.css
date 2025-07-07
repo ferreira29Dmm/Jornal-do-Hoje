@@ -37,6 +37,8 @@
     font-style: italic;
     opacity: .6;
     line-height: 1;
+    
+    display: none;
 }
 
 .emAlta__texto {
