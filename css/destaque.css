@@ -10,7 +10,7 @@
 .destaque {
     display: flex;
     flex-direction: column;
-    gap: .8rem;
+    gap: 1.125rem;
     border-right: 1px solid #6363633d;
     padding: 0 1.5rem 0 0;
 }
