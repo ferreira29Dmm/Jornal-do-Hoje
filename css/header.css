@@ -54,7 +54,7 @@ header {
     font-family: var(--font-titulo), serif;
     color: var(--cinza-secundario);
     letter-spacing: .09rem;
-    
+    opacity: .95;
 
     filter: url(#money);
 }
