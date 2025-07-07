@@ -19,9 +19,9 @@
 
 .manchete__subtitulo {
     font-size: 1.25rem;
-    line-height: .8;
+    line-height: 1;
     color: var(--cinza-secundario);
-    font-weight: 500;
+    font-weight: 400;
     font-style: italic;
     opacity: .6;
 }
