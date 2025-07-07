@@ -38,6 +38,10 @@ body::before {
     opacity: .7; /* Ajuste a intensidade do efeito */
 }
 
+.banner, .manchete, .destaques, .emAlta {
+    margin-bottom: 4rem;
+}
+
 @media screen and (min-width: 1024px) {
     body {
         display: flex;
