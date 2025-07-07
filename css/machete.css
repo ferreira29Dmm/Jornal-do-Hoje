@@ -4,8 +4,7 @@
     justify-content: center;
     align-items: start;
     padding: 1.5rem 1rem 3.75rem 1rem;
-    gap: 1.125rem;
-    
+    gap: 1.25rem;
 }
 .manchete__imagem {
     width: 100%;
@@ -20,7 +19,7 @@
 
 .manchete__subtitulo {
     font-size: 1.25rem;
-    line-height: 1;
+    line-height: .8;
     color: var(--cinza-secundario);
     font-weight: 500;
     font-style: italic;
