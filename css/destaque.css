@@ -33,6 +33,7 @@
     font-style: italic;
     opacity: .6;
     line-height: 1;
+    margin-bottom: -1rem;
 }
 
 .destaque__texto {
