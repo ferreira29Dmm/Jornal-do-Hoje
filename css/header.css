@@ -1,11 +1,38 @@
+header {
+    position: relative;
+}
+
+.xicara {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 4rem;
+    margin-top: 4rem;
+    z-index: 1;
+    opacity: .9;
+}
+
+.bule {
+    position: absolute;
+    top: 0;
+    right: 0;
+    width: 7rem;
+    z-index: 1;
+    opacity: .8;
+}
+
 .cabecalho {
     position: relative;
     display: flex;
     flex-direction: column;
     justify-content: center;
     align-items: center;
-    padding: 3rem 1rem 2rem 1rem;
+    padding: 5rem 1rem 2rem 1rem;
     text-align: center;
+}
+
+.rodape {
+    padding: 4rem;
 }
 
 .cabecalho__logo {
@@ -24,10 +51,12 @@
 
 .cabecalho__titulo {
     font-size: 2.25rem;
-    font-family: var(--font-titulo);
+    font-family: var(--font-titulo), serif;
     color: var(--cinza-secundario);
     letter-spacing: .09rem;
-    text-shadow: 1px 1px 1px #c7c7c7;
+    
+
+    filter: url(#money);
 }
 
 .cabecalho__subtitulo {
