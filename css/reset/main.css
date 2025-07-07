@@ -39,7 +39,7 @@ body::before {
 }
 
 .banner, .manchete, .destaques, .emAlta {
-    margin-bottom: 4rem;
+    margin-bottom: 7rem;
 }
 
 @media screen and (min-width: 1024px) {
