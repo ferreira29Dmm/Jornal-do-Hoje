@@ -65,7 +65,7 @@
 .cabecalho__linha {
     position: absolute;
     left: 0;
-    top: -5px;
+    top: -4px;
     width: 100%;
     height: 2px;
     background-color: #000000;
