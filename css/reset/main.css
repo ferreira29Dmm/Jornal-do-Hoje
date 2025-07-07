@@ -28,9 +28,9 @@ body::before {
     width: 100%;
     height: 100%;
     mix-blend-mode: multiply;
-    box-shadow: 2px 3px 30px rgb(175, 172, 172), 0 0 20px #e4cdac inset;
+    box-shadow: 2px 3px 30px rgb(175, 172, 172), 0 0 20px #eedbc0 inset;
     filter: url(#wavy2);
-    background-color: #fdfcf4;
+    background-color: #fffef7;
     background-image: url("https://www.transparenttextures.com/patterns/cream-paper.png");
 /* This is mostly intended for prototyping; please download the pattern and re-host for production environments. Thank you! */
     pointer-events: none; /* Para garantir que a interação com os elementos abaixo não seja bloqueada */
