@@ -1,0 +1,11 @@
+.ad-banner {
+    position: relative;
+    width: 100%;
+    height: auto;
+    margin: 2rem 0;
+}
+
+.ad-banner img {
+    width: 100%;
+    height: auto;
+}
