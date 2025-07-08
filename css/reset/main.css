@@ -47,7 +47,12 @@ body::before {
     position: relative;
 }
 
-.scroll {
+.manchete__container, 
+.destaques__container,
+.container__desk,
+.container__categorias,
+.diversos, 
+.cadastro__container {
     scroll-snap-align: start; 
 }
 
