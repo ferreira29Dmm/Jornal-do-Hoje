@@ -38,8 +38,10 @@ body::before {
     opacity: .7; /* Ajuste a intensidade do efeito */
 }
 
-.banner, .manchete, .destaques, .emAlta {
-    margin-bottom: 8.5rem;
+.manchete__container, .destaques__container {
+    min-height: 100vh;
+    padding-bottom: 0;
+    position: relative;
 }
 
 @media screen and (min-width: 1024px) {
