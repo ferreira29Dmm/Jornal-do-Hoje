@@ -47,6 +47,7 @@ body::before {
     position: relative;
 }
 
+<<<<<<< HEAD
 .manchete__container, 
 .destaques__container,
 .container__desk,
@@ -65,6 +66,8 @@ body::before {
     scroll-behavior: smooth;
 }
 
+=======
+>>>>>>> parent of e488db2 (snap sroll)
 @media screen and (min-width: 1024px) {
     body {
         display: flex;
