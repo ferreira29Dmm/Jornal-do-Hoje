@@ -1,3 +1,7 @@
+.banner_container {
+    scroll-snap-align: center;
+}
+
 .banner {
     display: flex;
     flex-direction: column;
