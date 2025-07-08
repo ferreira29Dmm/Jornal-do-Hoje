@@ -38,34 +38,6 @@ body::before {
     opacity: .7; /* Ajuste a intensidade do efeito */
 }
 
-.manchete__container, .destaques__container {
-    display: flex;
-    flex-direction: column;
-    justify-content: space-between;
-
-    padding-bottom: 0;
-    position: relative;
-}
-
-
-.manchete__container, 
-.destaques__container,
-.container__desk,
-.container__categorias,
-.diversos, 
-.cadastro__container {
-    scroll-snap-align: start; 
-}
-
-.scroll-container {
-    display: flex;
-    flex-direction: column;
-    height: 100vh;
-    overflow-y: scroll;
-    scroll-snap-type: y mandatory;
-    scroll-behavior: smooth;
-}
-
 
 @media screen and (min-width: 1024px) {
     body {

@@ -2,7 +2,7 @@
     display: flex;
     overflow-x: scroll;
     gap: 1.5rem;
-    padding: 1.5rem 0rem 0em 1rem;
+    padding: 1.5rem 0rem 4em 1rem;
     -ms-overflow-style: none;  /* Internet Explorer 10+ */
     scrollbar-width: none;
 }
