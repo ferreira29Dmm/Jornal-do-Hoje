@@ -1,12 +1,20 @@
+.cadastro__container {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    background-color: #F4F1E5;
+    height: 100vh;
+}
+
 .cadastro {
     display: flex;
     flex-direction: column;
-    padding: 4rem 1rem;
+    padding: 0rem 1rem;
     row-gap: 1.25rem;
-    background-color: #F4F1E5;
 }
 
 .cadastro__titulo {
+    margin-top: 4rem;
     font-size: 2rem;
     color: var(--cinza-secundario);
     font-weight: 700;

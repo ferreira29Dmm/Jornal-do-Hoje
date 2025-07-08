@@ -1,7 +1,7 @@
 .banner {
     display: flex;
     flex-direction: column;
-    padding: 3.125rem 1rem 3.75rem 1rem;
+    padding: 3.125rem 1rem 0rem 1rem;
     align-items: top;
     justify-content: center;
 }
