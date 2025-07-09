@@ -20,7 +20,7 @@ header {
     right: 0;
     width: 7.25rem;
     z-index: 1;
-    opacity: .8;
+    opacity: .6;
 }
 
 .cabecalho {
@@ -29,7 +29,7 @@ header {
     flex-direction: column;
     justify-content: center;
     align-items: center;
-    padding: 4.5rem 1rem 2rem 1rem;
+    padding: 4rem 1rem 2rem 1rem;
     text-align: center;
 }
 
@@ -37,7 +37,7 @@ header {
     width: 3.5rem;
     position: absolute;
     left: 1rem;
-    top: 1rem;
+    top: 1.5rem;
     opacity: .8;
 }
 
