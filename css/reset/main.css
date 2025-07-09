@@ -30,7 +30,7 @@ body::before {
     mix-blend-mode: multiply;
     box-shadow: 2px 3px 30px rgb(175, 172, 172), 0px 5px 20px #edc1884c inset;
     filter: url(#feTurbulence-f6aff91e);
-    background-color: #fff8ee;
+    background-color: #fffcf7;
     background-image: url("https://www.transparenttextures.com/patterns/beige-paper.png");
 /* This is mostly intended for prototyping; please download the pattern and re-host for production environments. Thank you! */
     pointer-events: none; /* Para garantir que a interação com os elementos abaixo não seja bloqueada */
