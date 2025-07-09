@@ -39,6 +39,8 @@ header {
     left: 1rem;
     top: 1.5rem;
     opacity: .8;
+
+    display: none;
 }
 
 .cabecalho__texto {
