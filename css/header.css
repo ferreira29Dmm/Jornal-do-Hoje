@@ -63,6 +63,7 @@ header {
     color: var(--cinza-secundario);
     opacity: .8;
     margin-right: .25rem;
+    margin-top: .08rem;
 }
 
 .container_inscrever {
