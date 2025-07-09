@@ -28,7 +28,7 @@ body::before {
     width: 100%;
     height: 100%;
     mix-blend-mode: multiply;
-    box-shadow: 2px 3px 30px rgb(175, 172, 172), 0px 10px 50px #d09e5d29 inset;
+    box-shadow: 2px 3px 30px rgb(175, 172, 172), 0px 10px 50px #ddad6e21 inset;
     filter: url(#feTurbulence-f6aff91e);
     background-color: #ffdbad4e;
     background-image: url("https://www.transparenttextures.com/patterns/beige-paper.png");
