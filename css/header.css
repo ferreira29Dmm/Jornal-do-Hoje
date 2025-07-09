@@ -58,11 +58,11 @@ header {
     font-size: 1rem;
     font-weight: 800;
     line-height: auto;
-    letter-spacing: .04rem;
+    letter-spacing: .025rem;
     font-family: var(--font-texto);
     color: var(--cinza-secundario);
     opacity: .8;
-    margin-right: .2rem;
+    margin-right: .25rem;
 }
 
 .container_inscrever {
