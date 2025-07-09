@@ -50,7 +50,7 @@ header {
     font-size: 2.25rem;
     font-family: var(--font-titulo), serif;
     color: var(--cinza-secundario);
-    letter-spacing: .09rem;
+    letter-spacing: .18rem;
     filter: url(#money);
 }
 
@@ -58,10 +58,11 @@ header {
     font-size: 1rem;
     font-weight: 800;
     line-height: auto;
-    letter-spacing: .06rem;
+    letter-spacing: .04rem;
     font-family: var(--font-texto);
     color: var(--cinza-secundario);
     opacity: .8;
+    margin-right: .2rem;
 }
 
 .container_inscrever {
