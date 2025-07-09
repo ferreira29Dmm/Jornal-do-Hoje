@@ -5,11 +5,12 @@ header {
 .xicara {
     position: absolute;
     top: 0;
-    left: 8px;
-    width: 4rem;
-    margin-top: 3.5rem;
+    left: 1rem;
+    width: 3.5rem;
+    margin-top: 3.8rem;
     z-index: 1;
-    opacity: .9;
+    opacity: .45;
+    transform: rotate(10deg);
 }
 
 .bule {
