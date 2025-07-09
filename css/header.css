@@ -51,7 +51,7 @@ header {
     flex-direction: column;
     justify-content: center;
     align-items: center;
-    padding: 2rem 1rem 2rem 1rem;
+    padding: 1.5rem 1rem 2rem 1rem;
     text-align: center;
 }
 
@@ -89,7 +89,7 @@ header {
     color: var(--cinza-secundario);
     opacity: .8;
     margin-right: .25rem;
-    margin-top: .08rem;
+    margin-top: .2rem;
 }
 
 .container_inscrever {
