@@ -59,7 +59,7 @@ main::before {
         display: flex;
         align-items: center;
         justify-content: center;
-        background-image: url(../../assets/jornal.jpg);
+        /*background-image: url(../../assets/jornal.jpg);*/
         background-repeat: repeat-y;
         background-size: contain;
         
