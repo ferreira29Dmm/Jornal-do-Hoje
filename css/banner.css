@@ -8,6 +8,7 @@
 
 .imagem__banner {
     width: 100%;
+    border: 2px solid var(--cinza-escuro);
 }
 
 @media screen and (min-width: 768px) {
