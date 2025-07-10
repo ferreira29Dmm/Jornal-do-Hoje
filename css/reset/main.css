@@ -13,6 +13,7 @@ body {
     height: 100%;
     position: relative;
     filter: url(#roughpaper);
+    background-color: #535353;
 }
 
 main {
@@ -35,7 +36,7 @@ main::before {
 /* This is mostly intended for prototyping; please download the pattern and re-host for production environments. Thank you! */
     pointer-events: none; /* Para garantir que a interação com os elementos abaixo não seja bloqueada */
     z-index: 9999;
-    opacity: .7; /* Ajuste a intensidade do efeito */
+    opacity: 1; /* Ajuste a intensidade do efeito */
 }
 
 
