@@ -1,17 +1,30 @@
-.banner {
+.banner__container {
     display: flex;
     flex-direction: column;
     padding: 2.5rem 1rem 2rem 1rem;
     align-items: top;
-    justify-content: center;
+}
+
+.banner {
+    display: flex;
+    border: 2px solid var(--cinza-escuro);
+    height: 90px;
+    width: 100%;
+    overflow-x: hidden;
 }
 
 .imagem__banner {
-    width: 100%;
-    height: 90px;
-    object-fit: cover;
-    border: 2px solid var(--cinza-escuro);
+    width: fit-content;
     opacity: .7;
+    flex-shrink: 0;
+    user-select: none;
+    animation: scroll 10s linear infinite;
+}
+
+@keyframes scroll {
+    to {
+        transform: translateX(-100%);
+    }
 }
 
 @media screen and (min-width: 768px) {
