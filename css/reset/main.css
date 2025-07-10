@@ -13,7 +13,7 @@ body {
     height: 100%;
     position: relative;
     filter: url(#roughpaper);
-    background-color: #535353;
+    background-color: #3d3d3d;
 }
 
 main {
