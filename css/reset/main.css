@@ -39,6 +39,20 @@ main::before {
     opacity: 1; /* Ajuste a intensidade do efeito */
 }
 
+@media screen and (min-width: 650px) {
+    body {
+        background-color: #ffffff;
+    }
+
+    body::before {
+        content: "Site disponível apenas para celulares no momento.";
+        font-size: 2rem;
+    }
+
+    main {
+        display: none;
+    }
+}
 
 @media screen and (min-width: 1024px) {
     body {
