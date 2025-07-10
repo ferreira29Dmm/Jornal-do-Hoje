@@ -20,7 +20,7 @@ main {
     border-top: 1px solid #5353531a;
 }
 
-body::before {
+main::before {
     content: '';
     position: absolute;
     top: 0;
