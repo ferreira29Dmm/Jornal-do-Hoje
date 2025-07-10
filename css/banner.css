@@ -1,7 +1,7 @@
 .banner {
     display: flex;
     flex-direction: column;
-    padding: 2.5rem 0rem 4rem 0rem;
+    padding: 2.5rem 0rem 2.5rem 0rem;
     align-items: top;
     justify-content: center;
 }
@@ -11,7 +11,7 @@
     height: 90px;
     object-fit: cover;
     border: 2px solid var(--cinza-escuro);
-    opacity: .7;
+    opacity: .5;
 }
 
 @media screen and (min-width: 768px) {
