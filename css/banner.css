@@ -3,15 +3,17 @@
     flex-direction: column;
     padding: 2.5rem 0rem 2rem 0rem;
     align-items: top;
+    box-shadow: -1rem 0 4px -4px #ffffff inset, 1rem 0 4px -4px #ffffff inset;
 }
 
 .banner {
+    position: relative;
     display: flex;
-  
     height: 100px;
     width: 100%;
     overflow-x: hidden;
 }
+
 
 .imagem__banner {
     width: fit-content;
@@ -19,6 +21,8 @@
     flex-shrink: 0;
     user-select: none;
     animation: scroll 20s linear infinite;
+
+    z-index: -1;
 }
 
 @keyframes scroll {
