@@ -1,25 +1,24 @@
 .banner__container {
     display: flex;
     flex-direction: column;
-    padding: 0;
+    padding: 2.5rem 1rem 2rem 1rem;
     align-items: top;
-    background-color: black;
 }
 
 .banner {
     display: flex;
     border: 2px solid #aaaaaa;
-    height: 60px;
+    height: 150px;
     width: 100%;
     overflow-x: hidden;
 }
 
 .imagem__banner {
     width: fit-content;
-    opacity: .9;
+    opacity: .75;
     flex-shrink: 0;
     user-select: none;
-    animation: scroll 10s linear infinite;
+    animation: scroll 20s linear infinite;
 }
 
 @keyframes scroll {
