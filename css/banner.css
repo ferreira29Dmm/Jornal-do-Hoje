@@ -8,7 +8,7 @@
 .banner {
     display: flex;
     border: 2px solid #aaaaaa;
-    height: 150px;
+    height: 50px;
     width: 100%;
     overflow-x: hidden;
 }
