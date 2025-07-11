@@ -1,9 +1,8 @@
 .banner__container {
     display: flex;
     flex-direction: column;
-    padding: 2.5rem 0rem 2rem 0rem;
+    padding: 2.5rem 1rem 2rem 1rem;
     align-items: top;
-    box-shadow: -1rem 0 4px -4px #ffffff inset, 1rem 0 4px -4px #ffffff inset;
 }
 
 .banner {
@@ -12,6 +11,7 @@
     height: 150px;
     width: 100%;
     overflow-x: hidden;
+    box-shadow: -.5rem 0 10px -4px #ffffff inset, .5rem 0 10px -4px #ffffff inset;
 }
 
 
@@ -21,7 +21,6 @@
     flex-shrink: 0;
     user-select: none;
     animation: scroll 20s linear infinite;
-
     z-index: -1;
 }
 
