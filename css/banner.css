@@ -8,7 +8,7 @@
 .banner {
     position: relative;
     display: flex;
-    height: 160px;
+
     width: 100%;
     overflow-x: hidden;
     /*box-shadow: -.5rem 0 10px -1px #ffffff inset, .5rem 0 10px -1px #ffffff inset;*/
@@ -16,11 +16,11 @@
 
 
 .imagem__banner {
-    width: fit-content;
-    opacity: .4;
-    flex-shrink: 0;
+
+    opacity: .7;
+    width: 100%;
     user-select: none;
-    animation: scroll 13s linear infinite;
+    /*animation: scroll 13s linear infinite;*/
     z-index: -1;
 }
 
