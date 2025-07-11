@@ -8,7 +8,7 @@
 .banner {
     position: relative;
     display: flex;
-
+    border: 1px solid #dbdbdb;
     width: 100%;
     overflow-x: hidden;
     /*box-shadow: -.5rem 0 10px -1px #ffffff inset, .5rem 0 10px -1px #ffffff inset;*/
@@ -16,7 +16,6 @@
 
 
 .imagem__banner {
-
     opacity: .7;
     width: 100%;
     user-select: none;
