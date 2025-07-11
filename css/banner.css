@@ -1,14 +1,14 @@
 .banner__container {
     display: flex;
     flex-direction: column;
-    padding: 2.5rem 1rem 2rem 1rem;
+    padding: 1rem 1rem 1rem 1rem;
     align-items: top;
 }
 
 .banner {
     display: flex;
     border: 2px solid #aaaaaa;
-    height: 100px;
+    height: 60px;
     width: 100%;
     overflow-x: hidden;
 }
