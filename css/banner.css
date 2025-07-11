@@ -17,7 +17,7 @@
 
 .imagem__banner {
     width: fit-content;
-    opacity: .6;
+    opacity: .4;
     flex-shrink: 0;
     user-select: none;
     animation: scroll 13s linear infinite;
