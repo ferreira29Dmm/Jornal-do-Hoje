@@ -9,7 +9,7 @@
 .banner {
     position: relative;
     display: flex;
-    height: 200px;
+    height: 150px;
     width: 100%;
     overflow-x: hidden;
 }
