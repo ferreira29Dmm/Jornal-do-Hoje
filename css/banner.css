@@ -8,10 +8,10 @@
 .banner {
     position: relative;
     display: flex;
-    height: 150px;
+    height: 80px;
     width: 100%;
     overflow-x: hidden;
-    box-shadow: -.5rem 0 10px -1px #ffffff inset, .5rem 0 10px -1px #ffffff inset;
+    /*box-shadow: -.5rem 0 10px -1px #ffffff inset, .5rem 0 10px -1px #ffffff inset;*/
 }
 
 
