@@ -3,6 +3,7 @@
     flex-direction: column;
     padding: 1rem 1rem 1rem 1rem;
     align-items: top;
+    background-color: black;
 }
 
 .banner {
