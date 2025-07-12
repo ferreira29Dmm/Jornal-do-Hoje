@@ -19,7 +19,7 @@
     opacity: .7;
     width: 100%;
     user-select: none;
-    animation: scroll 13s linear infinite;
+    animation: scroll 8s linear infinite;
     z-index: -1;
 }
 
