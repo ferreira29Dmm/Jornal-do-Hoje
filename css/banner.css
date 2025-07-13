@@ -1,7 +1,7 @@
 .banner__container {
     display: flex;
     flex-direction: column;
-    padding: 3rem 1rem 2.5rem 1rem;
+    padding: 3rem 1rem 4rem 1rem;
     align-items: top;
 }
 
@@ -11,7 +11,27 @@
     border: 1px solid #dbdbdb;
     width: 100%;
     overflow-x: hidden;
+    background-image: url("/assets/bg-banner.png");
+    z-index: 1;
     /*box-shadow: -.5rem 0 10px -1px #ffffff inset, .5rem 0 10px -1px #ffffff inset;*/
+}
+
+.banner::after {
+    content: "";
+    left: -1;
+    position: absolute;
+    width: .35rem;
+    height: 100%;
+    background-image: url("/assets/bg-banner.png");
+}
+
+.banner::before {
+    content: "";
+    right: -1px;
+    position: absolute;
+    width: .35rem;
+    height: 100%;
+    background-image: url("/assets/bg-banner.png");
 }
 
 
