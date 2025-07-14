@@ -99,7 +99,7 @@ header {
 .container_inscrever {
     position: relative;
     display: flex;
-    justify-content: center;
+    justify-content: space-between;
     padding: .5rem 1rem;
     border-bottom: 1px solid #000000;
     border-top: 1px solid #000000;
@@ -114,6 +114,7 @@ header {
 
 .inscrever__link {
     color: #EF7B7B;
+    text-decoration: underline;
     font-family: var(font-principal);
     opacity: 100%;
 }
