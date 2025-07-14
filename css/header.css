@@ -71,6 +71,8 @@ header {
     font-weight: 800;
     font-size: 1.125rem;
     margin-bottom: 4px;
+    white-space: nowrap;
+    margin: 0 1rem;
 }
 
 .cabecalho__titulo {
