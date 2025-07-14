@@ -27,8 +27,7 @@ header {
 }
 
 .linha-meio {
-    opacity: 1;
-    height: 1px;
+    opacity: .4;
 }
 
 .xicara {
@@ -102,8 +101,8 @@ header {
     display: flex;
     justify-content: center;
     padding: .5rem 1rem;
-    border-bottom: 1px solid #bdbdbd;
-    border-top: 0;
+    border-bottom: 1px solid #000000;
+    border-top: 1px solid #000000;
     font-size: 1.125rem;
     font-weight: 500;
 }
