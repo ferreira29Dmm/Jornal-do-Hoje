@@ -34,10 +34,11 @@
     width: 100px;
     padding: 0 1rem;
     font-family: var(--font-principal);
-    font-size: 1.125rem;
+    font-size: 1rem;
     text-align: center;
     border-right: 1px solid #979797;
     line-height: .9rem;
+    font-weight: 400;
 }
 
 @keyframes scroll {
