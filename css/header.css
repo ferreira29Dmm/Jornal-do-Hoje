@@ -99,7 +99,7 @@ header {
 .container_inscrever {
     position: relative;
     display: flex;
-    justify-content: space-between;
+    justify-content: center;
     padding: .5rem 1rem;
     border-bottom: 1px solid #000000;
     border-top: 1px solid #000000;
