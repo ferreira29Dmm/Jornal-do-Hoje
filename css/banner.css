@@ -37,7 +37,7 @@
 
 .imagem__banner {
     opacity: .7;
-    width: 100%;
+    height: 300px;
     user-select: none;
     animation: scroll 8s linear infinite;
     z-index: -1;
