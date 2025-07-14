@@ -99,12 +99,11 @@ header {
 .container_inscrever {
     position: relative;
     display: flex;
-    justify-content: center;
-    text-transform: uppercase;
+    justify-content: space-between;
     padding: .5rem 1rem;
     border-bottom: 1px solid #000000;
     border-top: 1px solid #000000;
-    font-size: .9rem;
+    font-size: 1.125rem;
     font-weight: 500;
 }
 
@@ -118,8 +117,6 @@ header {
     text-decoration: underline;
     font-family: var(font-principal);
     opacity: 100%;
-
-    display: none;
 }
 
 .cabecalho__linha {
