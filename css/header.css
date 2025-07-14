@@ -73,7 +73,7 @@ header {
     font-size: 1.125rem;
     white-space: nowrap;
     padding: .25rem .75rem .4rem .75rem;
-    border: 1px solid #cccbc8;
+
     background-color: #d6d5d17d;
 }
 
@@ -86,10 +86,10 @@ header {
 }
 
 .cabecalho__subtitulo {
-    font-size: 1rem;
+    font-size: 1.125rem;
     font-weight: 800;
     line-height: auto;
-    letter-spacing: .025rem;
+    letter-spacing: -.05rem;
     font-family: var(--font-texto);
     color: var(--vermelho);
     margin-right: .25rem;
