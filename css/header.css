@@ -67,7 +67,8 @@ header {
 }
 
 .cabecalho__texto {
-    color: var(--vermelho);
+    color: var(--cinza-secundario);
+    opacity: .8;
     font-weight: 800;
     font-size: 1.25rem;
     white-space: nowrap;
@@ -89,7 +90,7 @@ header {
     line-height: auto;
     letter-spacing: .025rem;
     font-family: var(--font-texto);
-    color: var(--cinza-secundario);
+    color: var(--vermelho);
     opacity: .8;
     margin-right: .25rem;
     margin-top: .2rem;
