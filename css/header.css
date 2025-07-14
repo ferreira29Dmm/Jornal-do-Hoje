@@ -100,10 +100,11 @@ header {
     position: relative;
     display: flex;
     justify-content: center;
+    text-transform: uppercase;
     padding: .5rem 1rem;
     border-bottom: 1px solid #000000;
     border-top: 1px solid #000000;
-    font-size: 1.125rem;
+    font-size: .9rem;
     font-weight: 500;
 }
 
