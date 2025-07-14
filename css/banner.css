@@ -39,7 +39,7 @@
     opacity: .7;
     height: 90px;
     user-select: none;
-    animation: scroll 5s linear infinite;
+    animation: scroll 8s linear infinite;
     z-index: -1;
 }
 
