@@ -61,5 +61,5 @@
     color: #54545436;
     font-family: var(--font-divisor);
     padding-left: 1rem;
-
+    transform: translateY(-10%);
 }
