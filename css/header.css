@@ -27,7 +27,8 @@ header {
 }
 
 .linha-meio {
-    opacity: 1;
+    opacity: .5;
+    height: 2px;
 }
 
 .xicara {
