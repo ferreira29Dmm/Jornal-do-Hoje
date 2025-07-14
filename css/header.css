@@ -70,10 +70,10 @@ header {
     color: var(--cinza-secundario);
     opacity: .8;
     font-weight: 800;
-    font-size: 1.25rem;
+    font-size: 1.75rem;
     white-space: nowrap;
     margin: 0 1rem;
-    text-transform: uppercase;
+
 }
 
 .cabecalho__titulo {
@@ -91,7 +91,6 @@ header {
     letter-spacing: .025rem;
     font-family: var(--font-texto);
     color: var(--vermelho);
-    opacity: .8;
     margin-right: .25rem;
     margin-top: .2rem;
 }
