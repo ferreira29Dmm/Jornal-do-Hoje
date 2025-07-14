@@ -68,9 +68,9 @@ header {
 
 .cabecalho__texto {
     color: var(--cinza-secundario);
-    opacity: .6;
+    opacity: .8;
     font-weight: 800;
-    font-size: 1.5rem;
+    font-size: 1.25rem;
     white-space: nowrap;
     margin: 0 1rem;
 
