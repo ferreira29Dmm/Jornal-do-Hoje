@@ -20,7 +20,7 @@
     content: "";
     left: -1;
     position: absolute;
-    width: .35rem;
+    width: .45rem;
     height: 100%;
     background-image: url("/assets/bg-banner.png");
 }
@@ -29,7 +29,7 @@
     content: "";
     right: -1px;
     position: absolute;
-    width: .35rem;
+    width: .45rem;
     height: 100%;
     background-image: url("/assets/bg-banner.png");
 }
