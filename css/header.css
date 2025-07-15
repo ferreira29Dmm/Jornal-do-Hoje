@@ -79,21 +79,22 @@ header {
 
 .cabecalho__titulo {
     font-size: 2.5rem;
-    font-family: var(--font-titulo), serif;
+    font-family: "Manufacturing Consent", serif;
     color: var(--cinza-secundario);
-    letter-spacing: .1rem;
+    font-weight: 400;
     filter: url(#money);
 }
 
 .cabecalho__subtitulo {
-    font-size: 1.125rem;
+    font-size: 1rem;
     font-weight: 800;
     line-height: auto;
-    letter-spacing: -.05rem;
+    letter-spacing: 0rem;
     font-family: var(--font-texto);
     color: var(--vermelho);
-    margin-right: .25rem;
-    margin-top: .2rem;
+    margin-right: -.3rem;
+    text-transform: uppercase;
+
 }
 
 .container_inscrever {
