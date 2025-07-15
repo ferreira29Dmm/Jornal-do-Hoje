@@ -123,11 +123,9 @@ header {
 .cabecalho__linha {
     position: absolute;
     left: 0;
-    top: -4px;
+    top: -3px;
     width: 100%;
-    height: 2px;
+    height: 1px;
     background-color: #8b8988;
-    opacity: .45;
-    
-
+    opacity: .6;
 }
