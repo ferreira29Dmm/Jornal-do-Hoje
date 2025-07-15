@@ -78,7 +78,7 @@ header {
 }
 
 .cabecalho__titulo {
-    font-size: 3rem;
+    font-size: 2.75rem;
     font-family: "Manufacturing Consent", serif;
     color: var(--cinza-secundario);
     font-weight: 400;
@@ -89,7 +89,7 @@ header {
     font-size: 1.125rem;
     font-weight: 800;
     line-height: auto;
-    letter-spacing: .05rem;
+    letter-spacing: -.025rem;
     font-family: var(--font-texto);
     color: var(--vermelho);
     margin-right: -.3rem;
