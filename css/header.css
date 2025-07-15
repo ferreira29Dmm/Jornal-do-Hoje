@@ -128,4 +128,6 @@ header {
     height: 2px;
     background-color: #000000;
     opacity: .45;
+
+    display: none;
 }
