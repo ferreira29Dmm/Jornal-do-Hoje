@@ -6,6 +6,8 @@
     padding: 0 1em;
     padding-bottom: 0;
     transform: translateY(20%);
+
+    opacity: .6;
 }
 
 .linha_esquerda {
