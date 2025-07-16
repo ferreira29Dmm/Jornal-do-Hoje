@@ -1,14 +1,12 @@
-// First call to define "parchment" height
-document.onload = ScrollHeight();
+var controller = new ScrollMagic.Controller();
 
-// Redraw when viewport is modified
-window.addEventListener('resize', function(event){
-    ScrollHeight();
+// Seleciona todas as seções com a classe .manchete__container
+document.querySelectorAll('.manchete__container').forEach((el) => {
+  new ScrollMagic.Scene({
+    triggerElement: el,
+    triggerHook: 0.8,
+    reverse: false
+  })
+    .setClassToggle(el, 'fade-in')
+    .addTo(controller);
 });
-
-
-function ScrollHeight() {
-    var content = document.querySelector('#parchment');
-    content.style.height = document.body.offsetHeight + 'px';
-    console.log()
-}

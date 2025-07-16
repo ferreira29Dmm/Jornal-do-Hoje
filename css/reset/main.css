@@ -1,3 +1,24 @@
+@font-face {
+  font-family: 'EB Garamond';
+  src: url('/fonts/EB_Garamond/EBGaramond-VariableFont_wght.ttf') format('woff2');
+}
+
+@font-face {
+  font-family: 'Manufacturing Consent';
+  src: url('/fonts/Manufacturing_Consent/ManufacturingConsent-Regular.ttf') format('truetype');
+}
+
+@font-face {
+  font-family: 'Pirata One';
+  src: url('/fonts/Pirata_One/PirataOne-Regular.ttf') format('truetype');
+}
+
+@font-face {
+  font-family: 'UnifrakturCook';
+  src: url('/fonts/UnifrakturCook/UnifrakturCook-Bold.ttf') format('truetype');
+  font-weight: 700;
+}
+
 :root {
     --vermelho: #EF7B7B;
     --cinza-escuro: #636363;
@@ -5,7 +26,7 @@
 
     --font-titulo: "Pirata One", serif;
     --font-texto: "EB Garamond", serif;
-    --font-divisor: "UnifrakturCook", cursive;
+    --font-divisor: "UnifrakturCook", serif;
 }
 
 body {

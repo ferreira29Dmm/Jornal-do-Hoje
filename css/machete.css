@@ -1,3 +1,12 @@
+#manchete__container {
+    opacity: .6;
+    transition: all 1s ease-out;
+}
+
+.fade-in {
+    opacity: 1;
+}
+
 .manchete {
     display: flex;
     flex-direction: column;
@@ -5,9 +14,8 @@
     align-items: start;
     padding: 1.5rem 1rem 4rem 1rem;
     gap: 1rem;
-    
-    opacity: .6;
 }
+
 .manchete__imagem {
     width: 100%;
 }
