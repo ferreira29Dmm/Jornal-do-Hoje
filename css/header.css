@@ -121,6 +121,10 @@ header {
     text-transform: uppercase;
 }
 
+.inscrever__texto img {
+    width: 40px;
+}
+
 .inscrever__link {
     color: #EF7B7B;
     text-decoration: underline;
