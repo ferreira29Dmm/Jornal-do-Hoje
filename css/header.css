@@ -52,8 +52,7 @@ header {
     flex-direction: column;
     justify-content: center;
     align-items: center;
-    /*padding: 1.5rem 1rem 2.5rem 1rem;*/
-    padding: 1rem 1rem 1.5rem 1rem;
+    padding: 1.5rem 1rem 2.5rem 1rem;
     text-align: center;
 }
 
@@ -71,7 +70,7 @@ header {
     color: var(--cinza-secundario);
     opacity: .8;
     font-weight: 800;
-    font-size: 1.25rem;
+    font-size: 1.125rem;
     white-space: nowrap;
     padding: .25rem .75rem .4rem .75rem;
     border: 1px solid #cccbc8ce;
@@ -79,8 +78,7 @@ header {
 }
 
 .cabecalho__titulo {
-    /*font-size: 2.75rem;*/
-    font-size: 3rem;
+    font-size: 2.8rem;
     font-family: "Manufacturing Consent", serif;
     color: var(--cinza-secundario);
     font-weight: 400;
@@ -91,28 +89,23 @@ header {
     font-size: 1.125rem;
     font-weight: 800;
     line-height: auto;
-    letter-spacing: -.025rem;
+    letter-spacing: -.01rem;
     font-family: var(--font-texto);
     color: var(--vermelho);
     margin-right: -.3rem;
     text-transform: uppercase;
     margin-top: -.1rem;
-
-    display: none;
-
 }
 
 .container_inscrever {
     position: relative;
     display: flex;
-    justify-content: center;
+    justify-content: space-between;
     padding: .5rem 1rem;
     border-bottom: 1px solid #8b8988;
     border-top: 1px solid #8b8988;
     font-size: 1.125rem;
-    font-weight: 600;
-
-    text-transform: capitalize;
+    font-weight: 500;
 }
 
 .inscrever__texto {
@@ -125,8 +118,6 @@ header {
     text-decoration: underline;
     font-family: var(font-principal);
     opacity: 100%;
-
-    display: none;
 }
 
 .cabecalho__linha {
