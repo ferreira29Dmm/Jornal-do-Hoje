@@ -1,7 +1,7 @@
 .banner__container {
     display: flex;
     flex-direction: column;
-    padding: 2.5rem 1rem 2rem 1rem;
+    padding: 2.5rem 1rem 4rem 1rem;
     align-items: top;
 }
 
