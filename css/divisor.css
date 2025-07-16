@@ -45,18 +45,18 @@
     white-space: nowrap;
     padding: .5rem 1rem;
     color: #545454dd;
-    font-size: 1.7rem;
+    font-size: 2rem;
     text-transform: capitalize;
-    letter-spacing: .05rem;
-    font-weight: 600;
-    font-family: var(--font-titulo);
+    letter-spacing: -.05rem;
+   
+    font-family: "Manufacturing Consent", serif;;
 }
 
 .divisor_numero {
     display: flex;
     flex-direction: row;
     white-space: nowrap;
-    font-size: 3.4375rem;
+    font-size: 3rem;
     font-weight: 700;
     color: #54545436;
     font-family: var(--font-divisor);
