@@ -109,13 +109,14 @@ header {
     border-top: 1px solid #8a8988;
     font-size: 1rem;
     font-weight: 500;
+    background-color: #4c4c4b;
 
     margin: 0 1rem;
 }
 
 .inscrever__texto {
-    color: #535353;
-    opacity: .8;
+    color: #e7e5e2;
+    opacity: 1;
     text-align: center;
     text-transform: uppercase;
 }
