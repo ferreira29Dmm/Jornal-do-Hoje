@@ -103,7 +103,7 @@ header {
 .container_inscrever {
     position: relative;
     display: flex;
-    justify-content: space-between;
+    justify-content: center;
     padding: .5rem .5rem;
     border-bottom: 1px solid #8a8988;
     border-top: 1px solid #8a8988;
@@ -115,7 +115,8 @@ header {
 
 .inscrever__texto {
     color: #535353;
-    opacity: 100%;
+    opacity: .8;
+    font-style: italic;
 }
 
 .inscrever__link {
@@ -123,6 +124,8 @@ header {
     text-decoration: underline;
     font-family: var(font-principal);
     opacity: 100%;
+
+    display: none;
 }
 
 .cabecalho__linha {
