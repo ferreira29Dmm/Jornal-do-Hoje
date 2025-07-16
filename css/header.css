@@ -24,9 +24,12 @@ header {
     height: 1px;
     background-color: #000000;
     opacity: .1;
+
+    display: none;
 }
 
 .linha-meio {
+    display: flex;
     opacity: .4;
 }
 
@@ -128,4 +131,6 @@ header {
     height: 1px;
     background-color: #8b8988;
     opacity: .4;
+
+    display: none;
 }
