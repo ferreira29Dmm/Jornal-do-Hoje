@@ -45,20 +45,19 @@
     white-space: nowrap;
     padding: .5rem 1rem;
     color: #545454dd;
-    font-size: 1.75rem;
+    font-size: 1.7rem;
     text-transform: capitalize;
     letter-spacing: -.05rem;
-    word-spacing: -.05rem;
-    font-weight: 600;
-    font-family: var(--font-texto);
+    font-weight: 500;
+    font-family: var(--font-titulo);
 }
 
 .divisor_numero {
     display: flex;
     flex-direction: row;
     white-space: nowrap;
-    font-size: 3rem;
-    font-weight: 800;
+    font-size: 3.4375rem;
+    font-weight: 700;
     color: #54545436;
     font-family: var(--font-divisor);
     padding-left: 1rem;
