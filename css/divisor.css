@@ -46,7 +46,7 @@
     padding: .5rem 1rem;
     color: #545454dd;
     font-size: 1.85rem;
-    text-transform: capitalize;
+    text-transform: lowercase;
     letter-spacing: -.05rem;
     font-weight: 500;
     font-family: var(--font-titulo);
