@@ -15,7 +15,7 @@ header {
     text-transform: capitalize;
     font-size: .75rem;
     color: var(--cinza-secundario);
-    opacity: .8;
+    opacity: .6;
 }
 
 .logo__container {
@@ -60,7 +60,7 @@ header {
     flex-direction: column;
     justify-content: center;
     align-items: center;
-    padding: 1.2rem 1rem 2rem 1rem;
+    padding: 1rem 1rem 1.8rem 1rem;
     text-align: center;
 }
 
@@ -95,19 +95,19 @@ header {
 
 .cabecalho__subtitulo {
     font-size: 1.125rem;
-    font-weight: 600;
+    font-weight: 400;
     line-height: auto;
     letter-spacing: -.01rem;
     font-family: var(--font-texto);
     color: #efefefe3;
-    text-transform: uppercase;
+    font-variant: small-caps;
 }
 
 .container_subtitulo {
     position: relative;
     display: flex;
     justify-content: center;
-    padding: .75rem 0rem .75rem 0rem;
+    padding: .7rem 0rem .7rem 0rem;
     font-size: 1rem;
     font-weight: 500;
     background-color: #b85e5e;
