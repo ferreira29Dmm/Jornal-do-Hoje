@@ -15,7 +15,7 @@ header {
     color: var(--cinza-secundario);
     text-transform: capitalize;
     font-size: 1rem;
-    opacity: .5;
+    opacity: .8;
 }
 
 .logo__container {
