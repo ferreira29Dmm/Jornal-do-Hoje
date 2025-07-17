@@ -95,32 +95,30 @@ header {
 
 .cabecalho__subtitulo {
     font-size: 1.125rem;
-    font-weight: 800;
+    font-weight: 600;
     line-height: auto;
     letter-spacing: -.01rem;
     font-family: var(--font-texto);
-    color: var(--vermelho);
-    margin-right: -.3rem;
+    color: #efefefe3;
     text-transform: uppercase;
-    margin-top: -.3rem;
 }
 
-.container_inscrever {
+.container_subtitulo {
     position: relative;
     display: flex;
     justify-content: center;
-    padding: 1rem 0rem 0rem 0rem;
-    border-top: 1px solid #8a8988;
+    padding: .75rem 0rem .75rem 0rem;
     font-size: 1rem;
     font-weight: 500;
-    background-color: #6d6c6b;
+    background-color: #b85e5e;
 
     margin: 0 1rem;
 }
 
-.container_inscrever img {
-   width: 7rem;
-   opacity: .6;
+.container_subtitulo img {
+   width: 5rem;
+   opacity: .8;
+   margin: 0 .5rem;
 }
 
 .inscrever__link {
