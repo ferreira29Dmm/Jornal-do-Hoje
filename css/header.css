@@ -95,7 +95,7 @@ header {
 
 .cabecalho__subtitulo {
     font-size: 1.25rem;
-    font-weight: 400;
+    font-weight: 500;
     line-height: auto;
     letter-spacing: -.01rem;
     font-family: var(--font-texto);
@@ -111,17 +111,29 @@ header {
     justify-content: center;
     padding: .6rem 0rem .6rem 0rem;
     font-size: 1rem;
-    font-weight: 600;
+    font-weight: 400;
     background-color: #b15656;
 
     margin: 0 1rem;
 }
 
 .container_subtitulo img {
-   width: 4rem;
-   height: 100%;
-   opacity: .6;
-   margin: 0 .5rem;
+   width: 8rem;
+ 
+   flex-shrink: 0;
+   opacity: .4;
+}
+
+.img-subtitulo-esquerda {
+    position: absolute;
+    left: -3rem;
+    bottom: 0;
+}
+
+.img-subtitulo-direita {
+    position: absolute;
+    right: -3rem;
+    bottom: 0;
 }
 
 .inscrever__link {
