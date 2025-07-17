@@ -109,7 +109,7 @@ header {
     position: relative;
     display: flex;
     justify-content: center;
-    padding: .5rem .5rem;
+    padding: .5rem 0rem 0rem 0rem;
     border-bottom: 1px solid #8a8988;
     border-top: 1px solid #8a8988;
     font-size: 1rem;
@@ -127,7 +127,7 @@ header {
 }
 
 .inscrever__texto img {
-    width: 40px;
+   width: 10rem;
 }
 
 .inscrever__link {
