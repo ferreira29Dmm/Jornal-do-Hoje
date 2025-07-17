@@ -12,7 +12,6 @@ header {
 
 .top__header p {
     font-family: var(--font-texto);
-    color: var(--cinza-secundario);
     text-transform: capitalize;
     font-size: .75rem;
     color: var(--cinza-secundario);
@@ -103,7 +102,7 @@ header {
     color: var(--vermelho);
     margin-right: -.3rem;
     text-transform: uppercase;
-    margin-top: -.1rem;
+    margin-top: -.2rem;
 }
 
 .container_inscrever {
