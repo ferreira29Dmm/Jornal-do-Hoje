@@ -109,7 +109,7 @@ header {
     position: relative;
     display: flex;
     justify-content: center;
-    padding: .5rem 0rem 0rem 0rem;
+    padding: 1rem 0rem 0rem 0rem;
     border-top: 1px solid #8a8988;
     font-size: 1rem;
     font-weight: 500;
