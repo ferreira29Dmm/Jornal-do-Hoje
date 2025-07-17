@@ -117,7 +117,7 @@ header {
 
 .container_subtitulo img {
    width: 5rem;
-   opacity: 1;
+   opacity: .8;
    margin: 0 .5rem;
 }
 
