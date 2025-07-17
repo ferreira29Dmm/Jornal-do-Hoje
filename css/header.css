@@ -107,6 +107,7 @@ header {
 .container_subtitulo {
     position: relative;
     display: flex;
+    align-items: baseline;
     justify-content: center;
     padding: .6rem 0rem .6rem 0rem;
     font-size: 1rem;
@@ -118,10 +119,9 @@ header {
 
 .container_subtitulo img {
    width: 4rem;
+   height: 100%;
    opacity: .8;
    margin: 0 .5rem;
-
-   display: none;
 }
 
 .inscrever__link {
