@@ -94,7 +94,7 @@ header {
 }
 
 .cabecalho__subtitulo {
-    font-size: 1.125rem;
+    font-size: 1.25rem;
     font-weight: 400;
     line-height: auto;
     letter-spacing: -.01rem;
@@ -120,6 +120,8 @@ header {
    width: 4rem;
    opacity: .8;
    margin: 0 .5rem;
+
+   display: none;
 }
 
 .inscrever__link {
