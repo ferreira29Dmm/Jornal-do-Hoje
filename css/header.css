@@ -78,7 +78,7 @@ header {
     color: var(--cinza-secundario);
     opacity: .8;
     font-weight: 600;
-    font-size: 1.125rem;
+    font-size: 1rem;
     white-space: nowrap;
     padding: .2rem .7rem .4rem .7rem;
     border: 1px solid #cccbc8ce;
