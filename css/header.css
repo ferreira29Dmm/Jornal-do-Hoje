@@ -118,22 +118,13 @@ header {
 }
 
 .container_subtitulo img {
-   width: 8rem;
- 
-   flex-shrink: 0;
-   opacity: .4;
+    width: 2rem;
+    margin: 0 .2rem;
+    flex-shrink: 0;
+    opacity: .6;
 }
-
-.img-subtitulo-esquerda {
-    position: absolute;
-    left: -4rem;
-    bottom: 0;
-}
-
 .img-subtitulo-direita {
-    position: absolute;
-    right: -4rem;
-    bottom: 0;
+    transform: rotateY(180deg);
 }
 
 .inscrever__link {
