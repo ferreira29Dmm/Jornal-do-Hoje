@@ -81,8 +81,8 @@ header {
     font-size: 1.125rem;
     white-space: nowrap;
     padding: .25rem .75rem .4rem .75rem;
-    border: 1px solid #cccbc8ce;
-    background-color: #d6d5d167;
+    border: 1px solid #cccbc800;
+    background-color: #d6d5d100;
 }
 
 .cabecalho__titulo {
