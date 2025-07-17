@@ -1,7 +1,7 @@
 var controller = new ScrollMagic.Controller();
 
 // Seleciona todas as seções com a classe .manchete__container
-document.querySelectorAll('.manchete__container').forEach((el) => {
+document.querySelectorAll('#manchete__container').forEach((el) => {
   new ScrollMagic.Scene({
     triggerElement: el,
     triggerHook: 0.8,
