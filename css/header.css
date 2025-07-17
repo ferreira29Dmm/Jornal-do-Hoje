@@ -7,7 +7,7 @@ header {
     align-items: center;
     justify-content: space-between;
     padding: 0 1rem;
-    margin-top: 1rem;
+    margin-top: 1.5rem;
 }
 
 .top__header p {
@@ -15,7 +15,6 @@ header {
     color: var(--cinza-secundario);
     text-transform: capitalize;
     font-size: 1rem;
-  
     letter-spacing: .08rem;
 }
 
