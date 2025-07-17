@@ -16,6 +16,7 @@ header {
     text-transform: capitalize;
     font-size: 1rem;
     opacity: .6;
+    letter-spacing: .08rem;
 }
 
 .logo__container {
