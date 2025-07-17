@@ -94,13 +94,14 @@ header {
 }
 
 .cabecalho__subtitulo {
-    font-size: 1.125rem;
+    font-size: 1rem;
     font-weight: 400;
     line-height: auto;
     letter-spacing: -.01rem;
     font-family: var(--font-texto);
     color: #efefeff1;
     font-variant: small-caps;
+    text-transform: uppercase;
 }
 
 .container_subtitulo {
@@ -116,7 +117,7 @@ header {
 }
 
 .container_subtitulo img {
-   width: 5rem;
+   width: 4rem;
    opacity: .8;
    margin: 0 .5rem;
 }
