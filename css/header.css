@@ -76,7 +76,7 @@ header {
 
 .cabecalho__texto {
     color: var(--cinza-secundario);
-    opacity: .8;
+    opacity: 1;
     font-weight: 600;
     font-size: 1rem;
     white-space: nowrap;
@@ -109,7 +109,7 @@ header {
     display: flex;
     align-items: baseline;
     justify-content: center;
-    padding: .6rem 0;
+    padding: .5rem 0;
     font-size: 1rem;
     font-weight: 400;
     background-color: #b15656;
