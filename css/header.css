@@ -109,7 +109,7 @@ header {
     display: flex;
     align-items: baseline;
     justify-content: center;
-    padding: .6rem 0rem .6rem 0rem;
+    padding: .6rem 0;
     font-size: 1rem;
     font-weight: 400;
     background-color: #b15656;
@@ -119,9 +119,11 @@ header {
 
 .container_subtitulo img {
     width: 2rem;
-    margin: 0 .2rem;
+    margin: 0 .5rem;
     flex-shrink: 0;
-    opacity: .6;
+    opacity: .8;
+
+    display: none;
 }
 .img-subtitulo-direita {
     transform: rotateY(180deg);
