@@ -118,7 +118,7 @@ header {
 }
 
 .container_subtitulo img {
-   width: 10rem;
+   width: 8rem;
  
    flex-shrink: 0;
    opacity: .4;
@@ -126,13 +126,13 @@ header {
 
 .img-subtitulo-esquerda {
     position: absolute;
-    left: -5rem;
+    left: -4rem;
     bottom: 0;
 }
 
 .img-subtitulo-direita {
     position: absolute;
-    right: -5rem;
+    right: -4rem;
     bottom: 0;
 }
 
