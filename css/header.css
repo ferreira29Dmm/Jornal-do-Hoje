@@ -107,7 +107,7 @@ header {
 .container_subtitulo {
     position: relative;
     display: flex;
-    align-items: baseline;
+    align-items: center;
     justify-content: center;
     padding: .5rem 0;
     font-size: 1rem;
@@ -118,12 +118,11 @@ header {
 }
 
 .container_subtitulo img {
-    width: 2rem;
+    width: 1rem;
     margin: 0 .5rem;
+
     flex-shrink: 0;
     opacity: .8;
-
-    display: none;
 }
 .img-subtitulo-direita {
     transform: rotateY(180deg);
