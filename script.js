@@ -6,7 +6,6 @@ document.querySelectorAll('.scroll__opacity').forEach(function(section){
   triggerHook: 0.3,
 })
   .setClassToggle(section, 'fade-in')
-  .addIndicators()
   .addTo(controller)
 })
 
