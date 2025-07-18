@@ -118,9 +118,8 @@ header {
 }
 
 .container_subtitulo img {
-    width: 1rem;
+    width: .8rem;
     margin: 0 .5rem;
-
     flex-shrink: 0;
     opacity: .8;
 }
