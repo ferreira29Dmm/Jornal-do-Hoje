@@ -121,7 +121,7 @@ header {
     width: .8rem;
     margin: 0 .5rem;
     flex-shrink: 0;
-    opacity: .8;
+    opacity: .6;
 }
 .img-subtitulo-direita {
     transform: rotateY(180deg);

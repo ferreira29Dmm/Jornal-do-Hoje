@@ -60,6 +60,15 @@ main::before {
     opacity: 1; /* Ajuste a intensidade do efeito */
 }
 
+.scroll__opacity {
+    opacity: .4;
+    transition: all .5s ease-out;
+}
+
+.scroll__opacity.fade-in {
+    opacity: 1;
+}
+
 @media screen and (min-width: 650px) {
     body {
         background-color: #ffffff;
