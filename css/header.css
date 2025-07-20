@@ -7,7 +7,7 @@ header {
     align-items: center;
     justify-content: space-between;
     padding: 0 1rem;
-    margin-top: 2rem;
+    margin-top: 1.5rem;
 }
 
 .top__header p {
@@ -16,6 +16,7 @@ header {
     font-size: .75rem;
     color: var(--cinza-secundario);
     opacity: .6;
+    transform: translateY(.75rem);
 }
 
 .logo__container {
@@ -60,7 +61,7 @@ header {
     flex-direction: column;
     justify-content: center;
     align-items: center;
-    padding: 1rem 1rem 1.5rem 1rem;
+    padding: 1.5rem 1rem 2rem 1rem;
     text-align: center;
 }
 
@@ -112,7 +113,7 @@ header {
     padding: .5rem 0;
     font-size: 1rem;
     font-weight: 400;
-    background-color: #b15656;
+    background-color: #a05151;
 
     margin: 0 1rem;
 }
