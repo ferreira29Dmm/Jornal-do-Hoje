@@ -7,7 +7,7 @@ header {
     align-items: center;
     justify-content: space-between;
     padding: 0 1rem;
-    margin-top: 1.5rem;
+    margin-top: 2rem;
 }
 
 .top__header p {
@@ -16,7 +16,6 @@ header {
     font-size: .75rem;
     color: var(--cinza-secundario);
     opacity: .6;
-
 }
 
 .logo__container {
