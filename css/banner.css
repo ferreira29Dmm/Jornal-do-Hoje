@@ -29,7 +29,9 @@
 
 .card__banner img{
     width: 90px;
-    padding: 0 .25rem;
+    height: 50px;
+    object-fit: cover;
+    padding: 0 .5rem;
 }
 
 .card__banner__titulo {
