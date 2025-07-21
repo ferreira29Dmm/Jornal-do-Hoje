@@ -76,7 +76,7 @@ header {
 }
 
 .cabecalho__texto {
-    color: #4e4d4c;
+    color: #efede9;
     opacity: 1;
     font-family: var(--font-texto);
     font-weight: 400;
@@ -84,7 +84,7 @@ header {
     white-space: nowrap;
     padding: .25rem .75rem;
     border: 1px solid #b4b1ae;
-    background-color: #f0f0f0;
+    background-color: #4e4d4c;
     height: 3.1rem;
     display: flex;
     flex-direction: column;
@@ -96,7 +96,7 @@ header {
 }
 
 .cabecalho__texto span {
-    color: #4e4d4c;
+    color: #efede9;
     font-weight: 600;
     font-size: 1.75rem;
 }
