@@ -16,6 +16,7 @@ header {
     font-size: .75rem;
     color: var(--cinza-secundario);
     opacity: .6;
+    margin-bottom: .2rem;
 }
 
 .logo__container {
@@ -60,7 +61,7 @@ header {
     flex-direction: column;
     justify-content: center;
     align-items: center;
-    padding: 1.5rem 1rem 2rem 1rem;
+    padding: 1.75rem 1rem 1.75rem 1rem;
     text-align: center;
 }
 
@@ -75,14 +76,27 @@ header {
 }
 
 .cabecalho__texto {
-    color: var(--cinza-secundario);
+    color: #e2e1de;
     opacity: 1;
-    font-weight: 600;
+    font-weight: 400;
     font-size: 1rem;
     white-space: nowrap;
-    padding: .2rem .7rem .4rem .7rem;
+    padding: .5rem .7rem;
     border: 1px solid #cccbc8ce;
-    background-color: #d6d5d167;
+    background-color: #4d4c4b;
+    height: 3.1rem;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    position: absolute;
+    right: 1rem;
+    top: -2.1rem;
+    z-index: 5;
+}
+
+.cabecalho__texto span {
+    font-weight: 600;
+    font-size: 2rem;
 }
 
 .cabecalho__titulo {
