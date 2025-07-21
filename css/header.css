@@ -76,14 +76,14 @@ header {
 }
 
 .cabecalho__texto {
-    color: #4e4d4cb6;
+    color: #4e4d4c;
     opacity: 1;
     font-weight: 400;
     font-size: 1rem;
     white-space: nowrap;
     padding: .5rem .7rem;
     border: 1px solid #b4b1ae;
-    background-color: #d7d7d7;
+    background-color: #e7e7e7;
     height: 3.1rem;
     display: flex;
     flex-direction: column;
