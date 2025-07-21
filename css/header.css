@@ -65,7 +65,7 @@ header {
     flex-direction: column;
     justify-content: center;
     align-items: center;
-    padding: 2rem 1rem 2rem 1rem;
+    padding: 1.5rem 1rem 1.5rem 1rem;
     text-align: center;
 }
 
@@ -102,11 +102,11 @@ header {
 .cabecalho__texto span {
     color: #efede9;
     font-weight: 600;
-    font-size: 1.75rem;
+    font-size: 1.5rem;
 }
 
 .cabecalho__titulo {
-    font-size: 3.25rem;
+    font-size: 2.75rem;
     font-family: "Manufacturing Consent", serif;
     color: var(--cinza-secundario);
     font-weight: 400;
@@ -114,7 +114,7 @@ header {
 }
 
 .cabecalho__subtitulo {
-    font-size: 1.25rem;
+    font-size: 1.125rem;
     font-weight: 600;
     line-height: auto;
     letter-spacing: .025rem;
