@@ -81,7 +81,7 @@ header {
     font-weight: 400;
     font-size: 1rem;
     white-space: nowrap;
-    padding: .5rem .7rem;
+    padding: .5rem .75rem;
     border: 1px solid #b4b1ae;
     background-color: #f0f0f0;
     height: 3.1rem;
@@ -97,7 +97,7 @@ header {
 .cabecalho__texto span {
     color: #4e4d4c;
     font-weight: 600;
-    font-size: 2rem;
+    font-size: 1.75rem;
 }
 
 .cabecalho__titulo {
