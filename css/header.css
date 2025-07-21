@@ -7,7 +7,7 @@ header {
     align-items: center;
     justify-content: space-between;
     padding: 0 1rem;
-    margin-top: 2rem;
+    margin-top: 2.25rem;
 }
 
 .top__header p {
@@ -90,7 +90,7 @@ header {
     justify-content: center;
     position: absolute;
     right: 1rem;
-    top: -2.1rem;
+    top: -2.35rem;
     z-index: 5;
 }
 
