@@ -12,7 +12,6 @@ header {
 
 .top__header p {
     font-family: var(--font-texto);
-    text-transform: capitalize;
     font-size: .75rem;
     color: var(--cinza-secundario);
     opacity: .6;
