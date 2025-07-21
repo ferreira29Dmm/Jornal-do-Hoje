@@ -97,11 +97,11 @@ header {
     font-size: 1.25rem;
     font-weight: 600;
     line-height: auto;
-    letter-spacing: -.01rem;
+    letter-spacing: .025rem;
     font-family: var(--font-texto);
     color: #efefeff1;
     font-variant: small-caps;
-
+    transform: translateY(-.08rem);
 }
 
 .container_subtitulo {
@@ -118,13 +118,17 @@ header {
 }
 
 .container_subtitulo img {
-    width: .8rem;
-    margin: 0 .5rem;
+    width: .7rem;
+    margin: 0 1rem;
     flex-shrink: 0;
     opacity: .4;
 }
 .img-subtitulo-direita {
-    transform: rotateY(180deg);
+    transform: rotate(90deg);
+}
+
+.img-subtitulo-esquerda {
+    transform: rotate(-90deg);
 }
 
 .inscrever__link {
