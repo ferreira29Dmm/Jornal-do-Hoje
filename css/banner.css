@@ -31,7 +31,7 @@
     width: 90px;
     height: 60px;
     object-fit: cover;
-    padding: 0 .5rem;
+    padding: 0 .25rem;
 }
 
 .card__banner__titulo {
