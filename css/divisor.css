@@ -56,7 +56,7 @@
     white-space: nowrap;
     font-size: 3rem;
     font-weight: 700;
-    color: #545454ad;
+    color: #d5d4d1;
     font-family: var(--font-divisor);
     padding-left: 1rem;
     transform: translateY(-20%);
@@ -68,7 +68,6 @@
     font-weight: 400;
     margin-left: .35rem;
     font-weight: 500;
-    opacity: .5;
 }
 
 .hashtag {
