@@ -76,7 +76,7 @@ header {
 }
 
 .cabecalho__texto {
-    color: #4e4d4c;
+    color: #4e4d4cb6;
     opacity: 1;
     font-weight: 400;
     font-size: 1rem;
@@ -95,6 +95,7 @@ header {
 }
 
 .cabecalho__texto span {
+    color: #4e4d4c;
     font-weight: 600;
     font-size: 2rem;
 }
