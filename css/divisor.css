@@ -14,8 +14,9 @@
     width: 1rem;
     height: .6rem;
     opacity: 0.15;
-    background-color: #636363;
+    background-color: #b5b3b0;
     z-index: -1;
+    display: none;
 }
 
 .linha_centro {
