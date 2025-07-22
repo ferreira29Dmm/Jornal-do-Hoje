@@ -51,16 +51,15 @@
 }
 
 .divisor_numero {
-
     display: flex;
     flex-direction: row;
     white-space: nowrap;
     font-size: 1rem;
-    font-weight: 600;
-    color: #42413d;
+    font-weight: 400;
+    color: #797978;
     font-family: var(--font-texto);
     padding-left: 1rem;
-    transform: translateY(-20%);
+    transform: translateY(-10%);
 }
 
 .restante {
