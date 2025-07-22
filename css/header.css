@@ -110,7 +110,7 @@ header {
     font-family: "Manufacturing Consent", serif;
     color: var(--cinza-secundario);
     font-weight: 400;
-    filter: url(#money);
+    /*filter: url(#money);*/
 }
 
 .cabecalho__subtitulo {
