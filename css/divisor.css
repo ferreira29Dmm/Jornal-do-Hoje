@@ -51,13 +51,14 @@
 }
 
 .divisor_numero {
+
     display: flex;
     flex-direction: row;
     white-space: nowrap;
-    font-size: 3.2rem;
-    font-weight: 700;
-    color: #d5d4d1;
-    font-family: var(--font-divisor);
+    font-size: 1rem;
+    font-weight: 600;
+    color: #42413d;
+    font-family: var(--font-texto);
     padding-left: 1rem;
     transform: translateY(-20%);
 }
