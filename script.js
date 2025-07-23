@@ -4,7 +4,7 @@ var controller2 = new ScrollMagic.Controller();
 document.querySelectorAll('.scroll__opacity').forEach(function(section){
   new ScrollMagic.Scene({
   triggerElement: section,
-  triggerHook: 0.7,
+  triggerHook: 0.6,
 })
   .setClassToggle(section, 'fade-in')
   .addTo(controller)
