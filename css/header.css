@@ -108,16 +108,15 @@ header {
 }
 
 .cabecalho__titulo {
-    font-size: 3.25rem;
+    font-size: 3rem;
     font-family: "Manufacturing Consent", serif;
     color: var(--cinza-secundario);
     font-weight: 400;
     letter-spacing: -.05rem;
-    filter: url(#money);
 }
 
 .cabecalho__titulo img{
-    width: 2.5rem;
+    width: 2rem;
 }
 
 .cabecalho__subtitulo {
