@@ -128,7 +128,7 @@ header {
     color: #efede9;
     font-variant: small-caps;
     transform: translateY(-.08rem);
-    opacity: .8;
+    opacity: 1;
 }
 
 .container_subtitulo {
