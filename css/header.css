@@ -87,7 +87,7 @@ header {
     flex-direction: column;
     justify-content: center;
     align-items: center;
-    padding: 1.5rem 1rem 1.5rem 1rem;
+    padding: 1.75rem 1rem 1.75rem 1rem;
     text-align: center;
 }
 
@@ -108,7 +108,7 @@ header {
 }
 
 .cabecalho__titulo {
-    font-size: 3.125rem;
+    font-size: 3.25rem;
     font-family: "Manufacturing Consent", serif;
     color: var(--cinza-secundario);
     font-weight: 400;
