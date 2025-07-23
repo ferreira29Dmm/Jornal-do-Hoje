@@ -126,7 +126,7 @@ header {
     line-height: auto;
     letter-spacing: -.05rem;
     font-family: var(--font-texto);
-    color: #f2efeb;
+    color: #4c4b4a;
     font-variant: small-caps;
     transform: translateY(-.08rem);
     opacity: .8;
@@ -140,7 +140,7 @@ header {
     padding: .3rem 0;
     font-size: 1rem;
     font-weight: 400;
-    background-color: #4d4c4b;
+    background-color: #4d4c4b00;
     border-top: 1px solid #afaeaa;
     border-bottom: 1px solid #afaeaa;
 
