@@ -87,7 +87,7 @@ header {
     flex-direction: column;
     justify-content: center;
     align-items: center;
-    padding: 1.75rem 1rem 1.75rem 1rem;
+    padding: 1rem 1rem 1rem 1rem;
     text-align: center;
 }
 
@@ -108,7 +108,7 @@ header {
 }
 
 .cabecalho__titulo {
-    font-size: 3rem;
+    font-size: 3.25rem;
     font-family: "Manufacturing Consent", serif;
     color: var(--cinza-secundario);
     font-weight: 400;
@@ -126,7 +126,7 @@ header {
     line-height: auto;
     letter-spacing: .05rem;
     font-family: var(--font-texto);
-    color: #efefeff1;
+    color: #4c4c4b;
     font-variant: small-caps;
     transform: translateY(-.08rem);
 }
@@ -139,7 +139,9 @@ header {
     padding: .5rem 0;
     font-size: 1rem;
     font-weight: 400;
-    background-color: #4e4d4c;
+    background-color: #4e4d4c00;
+    border-top: 1px solid #8b8988;
+    border-bottom: 1px solid #8b8988;
 
     margin: 0 1rem;
 }
