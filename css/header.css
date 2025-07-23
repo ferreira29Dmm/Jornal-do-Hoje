@@ -30,7 +30,7 @@ header {
     white-space: nowrap;
     padding: .2rem .75rem;
     border: 1px solid #b4b1ae;
-    background-color: #a05151;
+    background-color: #4c4b4a;
     height: 3.1rem;
     display: flex;
     flex-direction: column;
@@ -125,7 +125,7 @@ header {
     font-weight: 500;
     line-height: auto;
     font-family: var(--font-texto);
-    color: #4c4b4a;
+    color: #e9e7e4;
     font-variant: small-caps;
     transform: translateY(-.08rem);
     opacity: .8;
@@ -139,7 +139,7 @@ header {
     padding: .3rem 0;
     font-size: 1rem;
     font-weight: 400;
-    background-color: #4d4c4b00;
+    background-color: #924a49;
     border-top: 1px solid #afaeaa;
     border-bottom: 1px solid #afaeaa;
 
