@@ -116,6 +116,10 @@ header {
     /*filter: url(#money);*/
 }
 
+.cabecalho__titulo img{
+    width: 2.5rem;
+}
+
 .cabecalho__subtitulo {
     font-size: 1.25rem;
     font-weight: 600;
