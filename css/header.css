@@ -124,7 +124,6 @@ header {
     font-size: 1.25rem;
     font-weight: 500;
     line-height: auto;
-    letter-spacing: -.05rem;
     font-family: var(--font-texto);
     color: #4c4b4a;
     font-variant: small-caps;
