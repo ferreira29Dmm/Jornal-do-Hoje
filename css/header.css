@@ -8,7 +8,7 @@ header {
     align-items: end;
     justify-content: space-between;
     padding: 0 1rem;
-    margin-top: 1.55rem;
+    margin-top: 2rem;
 }
 
 .top__header .issue {
@@ -21,7 +21,7 @@ header {
 
 .cabecalho__texto {
     position: absolute;
-    bottom: -1rem;
+    bottom: -.55rem;
     color: #efede9;
     opacity: 1;
     font-family: var(--font-texto);
