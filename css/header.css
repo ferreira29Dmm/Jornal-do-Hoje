@@ -117,6 +117,7 @@ header {
 
 .cabecalho__titulo img{
     width: 2rem;
+    opacity: .8;
 }
 
 .cabecalho__subtitulo {
