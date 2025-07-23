@@ -30,7 +30,7 @@ header {
     white-space: nowrap;
     padding: .2rem .75rem;
     border: 1px solid #b4b1ae;
-    background-color: #4e4d4c;
+    background-color: #a05151;
     height: 3.1rem;
     display: flex;
     flex-direction: column;
@@ -87,7 +87,7 @@ header {
     flex-direction: column;
     justify-content: center;
     align-items: center;
-    padding: 2rem 1rem 2rem 1rem;
+    padding: 1.75rem 1rem 1.75rem 1rem;
     text-align: center;
 }
 
@@ -135,7 +135,7 @@ header {
     padding: .5rem 0;
     font-size: 1rem;
     font-weight: 400;
-    background-color: #a05151;
+    background-color: #4e4d4c;
 
     margin: 0 1rem;
 }
