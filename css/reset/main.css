@@ -38,7 +38,6 @@ body {
 }
 
 main {
-    
     border-top: 1px solid #5353531a;
 }
 
@@ -66,6 +65,15 @@ main::before {
 }
 
 .scroll__opacity.fade-in {
+    opacity: 1;
+}
+
+.scroll__opacity__initial {
+    opacity: .4;
+    transition: all .5s ease-out;
+}
+
+.scroll__opacity__initial.fade-in {
     opacity: 1;
 }
 
